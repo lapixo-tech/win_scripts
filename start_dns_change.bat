@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File d:\MyDocuments\scripts\start_dns_change.ps1

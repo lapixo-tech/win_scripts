@@ -1,0 +1,1 @@
+move D:\Pictures\Screenshots\* P:\Screenshots\

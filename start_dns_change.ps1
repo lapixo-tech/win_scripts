@@ -1,0 +1,1 @@
+Start-Process powershell -verb runas -ArgumentList "-ExecutionPolicy Bypass -File d:\MyDocuments\scripts\change_dns.ps1"
